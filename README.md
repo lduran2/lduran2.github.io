@@ -5,4 +5,4 @@ My Github Page
 [lduran2](https://github.com/lduran2/)
 
 ## My projects
-* (CIS 114 JavaScript I)[https://lduran2.github.io/cis114-javascript_i/]
+* [CIS 114 JavaScript I](https://lduran2.github.io/cis114-javascript_i/)
